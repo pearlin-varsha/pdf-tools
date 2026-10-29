@@ -1,0 +1,4 @@
+img2pdf>=0.5
+Pillow>=10.0
+PyMuPDF>=1.26
+pywin32>=306; sys_platform == "win32"
